@@ -1,0 +1,8 @@
+1.Id
+2.Summary
+3.Description
+steos to reproduce
+actual result
+expected result
+4.Severity
+5.Priority
