@@ -1,7 +1,7 @@
 1.Id
 2.Summary
 3.Description
-steos to reproduce
+steps to reproduce
 actual result
 expected result
 4.Severity
